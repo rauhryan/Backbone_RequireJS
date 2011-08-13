@@ -6,7 +6,6 @@ to use requireJS.
 
 The easiest way to get it running is probably use 
 
-> python -m SimpleHTTPServer 4444
-
-or whatever cli webserver you prefer.
+> gem install simpleserve
+> simpleserve
 
